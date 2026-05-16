@@ -1,0 +1,10 @@
+name: image_processing
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - opencv
+  - numpy
+  - matplotlib
+  - scipy
