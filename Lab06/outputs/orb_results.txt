@@ -1,0 +1,23 @@
+OpenCV ORB Feature Matching Homework Results
+
+Task 1: ORB keypoints and descriptors
+box.png keypoints: 865
+box_in_scene.png keypoints: 1000
+box.png descriptor shape: (865, 32)
+box_in_scene.png descriptor shape: (1000, 32)
+
+Task 2: ORB feature matching
+Total matches: 287
+Saved top-50 match visualization: outputs/orb_top50_matches.png
+
+Task 3: RANSAC + Homography
+RANSAC inliers: 52
+Inlier ratio: 0.1812
+Homography matrix:
+[[  0.4344    -0.127125 117.960351]
+ [ -0.017338   0.462979 160.111717]
+ [ -0.000337  -0.000127   1.      ]]
+
+Task 4: Object localization
+Located successfully: Yes
+Saved localization visualization: outputs/orb_object_location.png

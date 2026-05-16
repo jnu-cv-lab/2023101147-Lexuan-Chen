@@ -1,0 +1,4 @@
+nfeatures,template_keypoints,scene_keypoints,matches,ransac_inliers,inlier_ratio,located_successfully
+500,453,500,149,32,0.2148,Yes
+1000,865,1000,287,52,0.1812,Yes
+2000,1589,1999,511,66,0.1292,Yes

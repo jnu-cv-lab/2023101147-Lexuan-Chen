@@ -1,0 +1,6 @@
+SIFT optional task
+SIFT matches after Lowe ratio test: 80
+SIFT RANSAC inliers: 75
+SIFT inlier ratio: 0.9375
+SIFT located successfully: Yes
+SIFT elapsed time: 0.1138 seconds
